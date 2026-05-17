@@ -1,0 +1,3 @@
+{
+  "schema": "{\"type\":\"record\",\"name\":\"PedidoRestaurante\",\"fields\":[{\"name\":\"pedido_id\",\"type\":\"string\"},{\"name\":\"cliente\",\"type\":\"string\"},{\"name\":\"restaurante\",\"type\":\"string\"},{\"name\":\"item\",\"type\":\"string\"},{\"name\":\"valor\",\"type\":\"float\"},{\"name\":\"status\",\"type\":\"string\"},{\"name\":\"data_evento\",\"type\":\"string\"}]}"
+}

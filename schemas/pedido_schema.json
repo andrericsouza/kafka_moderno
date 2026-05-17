@@ -1,0 +1,42 @@
+{
+  "type": "record",
+  "name": "PedidoRestaurante",
+  "fields": [
+    {
+      "name": "pedido_id",
+      "type": "string"
+    },
+    {
+      "name": "origem",
+      "type": "string"
+    },
+    {
+      "name": "cliente",
+      "type": "string"
+    },
+    {
+      "name": "garcom",
+      "type": "string"
+    },
+    {
+      "name": "mesa",
+      "type": "int"
+    },
+    {
+      "name": "item",
+      "type": "string"
+    },
+    {
+      "name": "valor",
+      "type": "float"
+    },
+    {
+      "name": "status",
+      "type": "string"
+    },
+    {
+      "name": "data_evento",
+      "type": "string"
+    }
+  ]
+}

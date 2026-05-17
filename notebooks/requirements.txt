@@ -1,0 +1,8 @@
+confluent-kafka
+faker
+pandas
+matplotlib
+plotly
+ipywidgets
+fastavro
+requests
