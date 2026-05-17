@@ -22,7 +22,7 @@ Simular o fluxo completo de pedidos de um restaurante:
   
 # 🏗️ Arquitetura  
   
-
+```
 CLIENTE APP  
 └── Producer  
   
@@ -37,13 +37,13 @@ pedidos_restaurante
 ↓  
   
 ┌───────────────────────────────────┐  
-│ │  
-│ Consumer Restaurante │  
-│ Consumer Cliente │  
-│ Consumer Garçom │  
-│ │  
+│                                   │  
+│ Consumer Restaurante              │  
+│ Consumer Cliente                  │  
+│ Consumer Garçom                   │  
+│                                   │  
 └───────────────────────────────────┘
-
+```
 ----------
 
 # 🚀 Tecnologias Utilizadas
