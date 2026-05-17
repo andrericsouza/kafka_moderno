@@ -1,4 +1,7 @@
 # 🍽️ Laboratório Kafka Moderno - Sistema de Pedidos de Restaurante  
+
+<img width="1313" height="876" alt="image" src="https://github.com/user-attachments/assets/65ddf609-7fcd-465f-8a6d-d8f032cc89a0" />
+
   
 Laboratório prático utilizando Apache Kafka moderno (KRaft) para simular um sistema de pedidos de restaurante em tempo real.  
   
