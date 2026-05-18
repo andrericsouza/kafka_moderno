@@ -128,7 +128,7 @@ D:\docker\impacta_kafka_restaurante
 # 1. Clonar repositório
 
 ```
-git clone https://github.com/SEU_USUARIO/kafka-moderno-kraft.git
+git clone https://github.com/andrericsouza/kafka_moderno.git
 ```
 
 ----------
@@ -136,7 +136,7 @@ git clone https://github.com/SEU_USUARIO/kafka-moderno-kraft.git
 # 2. Entrar no diretório
 
 ```
-cd kafka-moderno-kraft
+cd kafka_moderno
 ```
 
 ----------
