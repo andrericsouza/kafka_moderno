@@ -8,7 +8,6 @@ kafka-topics \
 --partitions 3 \
 --replication-factor 1
 
-
 echo "Registrando schema..."
 
 curl -X POST http://schema-registry:8081/subjects/pedidos_restaurante-value/versions \
